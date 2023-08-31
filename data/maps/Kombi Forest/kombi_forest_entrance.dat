@@ -1,0 +1,282 @@
+properties{
+  x = 0,
+  y = 480,
+  width = 320,
+  height = 240,
+  min_layer = 0,
+  max_layer = 2,
+  world = "kombi_forest",
+  tileset = "oceanset_outside",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 0,
+  width = 320,
+  height = 240,
+  pattern = "grass_light",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 8,
+  width = 32,
+  height = 32,
+  pattern = "155",
+}
+
+tile{
+  layer = 0,
+  x = 8,
+  y = 8,
+  width = 8,
+  height = 80,
+  pattern = "grass_light_edge_30",
+}
+
+tile{
+  layer = 0,
+  x = 8,
+  y = 0,
+  width = 8,
+  height = 8,
+  pattern = "grass_light_edge_29",
+}
+
+tile{
+  layer = 0,
+  x = 8,
+  y = 80,
+  width = 8,
+  height = 8,
+  pattern = "grass_light_edge_35",
+}
+
+tile{
+  layer = 0,
+  x = -16,
+  y = 0,
+  width = 32,
+  height = 208,
+  pattern = "grass_light_2",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 40,
+  width = 8,
+  height = 160,
+  pattern = "grass_light_edge_30",
+}
+
+tile{
+  layer = 0,
+  x = -24,
+  y = 200,
+  width = 8,
+  height = 8,
+  pattern = "grass_light_edge_32",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 96,
+  width = 8,
+  height = 8,
+  pattern = "grass_light_edge_29",
+}
+
+tile{
+  layer = 0,
+  x = -16,
+  y = 96,
+  width = 32,
+  height = 8,
+  pattern = "grass_light_edge_34",
+}
+
+tile{
+  layer = 0,
+  x = -24,
+  y = 104,
+  width = 8,
+  height = 96,
+  pattern = "grass_light_edge_31",
+}
+
+tile{
+  layer = 0,
+  x = -24,
+  y = 96,
+  width = 8,
+  height = 8,
+  pattern = "grass_light_edge_33",
+}
+
+tile{
+  layer = 0,
+  x = -16,
+  y = 200,
+  width = 32,
+  height = 8,
+  pattern = "grass_light_edge_36",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 200,
+  width = 8,
+  height = 8,
+  pattern = "grass_light_edge_35",
+}
+
+tile{
+  layer = 0,
+  x = -16,
+  y = 104,
+  width = 32,
+  height = 32,
+  pattern = "155",
+}
+
+tile{
+  layer = 0,
+  x = -16,
+  y = 168,
+  width = 32,
+  height = 24,
+  pattern = "158",
+}
+
+tile{
+  layer = 0,
+  x = -16,
+  y = 8,
+  width = 32,
+  height = 32,
+  pattern = "155",
+}
+
+tile{
+  layer = 0,
+  x = 24,
+  y = 48,
+  width = 32,
+  height = 32,
+  pattern = "155",
+}
+
+tile{
+  layer = 0,
+  x = -40,
+  y = 48,
+  width = 32,
+  height = 32,
+  pattern = "155",
+}
+
+teletransporter{
+  layer = 0,
+  x = -16,
+  y = 48,
+  width = 16,
+  height = 192,
+  transition = "scrolling",
+  destination_map = "Yakuf Plains/north_east_entry",
+  destination = "_side",
+}
+
+wall{
+  layer = 0,
+  x = 0,
+  y = 40,
+  width = 56,
+  height = 8,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+wall{
+  layer = 0,
+  x = 56,
+  y = 0,
+  width = 8,
+  height = 48,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+tile{
+  layer = 1,
+  x = 0,
+  y = -40,
+  width = 64,
+  height = 72,
+  pattern = "261",
+}
+
+tile{
+  layer = 1,
+  x = 32,
+  y = -32,
+  width = 64,
+  height = 56,
+  pattern = "149",
+}
+
+tile{
+  layer = 1,
+  x = -32,
+  y = 64,
+  width = 64,
+  height = 56,
+  pattern = "149",
+}
+
+tile{
+  layer = 1,
+  x = -24,
+  y = 136,
+  width = 48,
+  height = 40,
+  pattern = "159",
+}
+
+tile{
+  layer = 1,
+  x = -32,
+  y = -32,
+  width = 64,
+  height = 56,
+  pattern = "149",
+}
+
+tile{
+  layer = 1,
+  x = 8,
+  y = 8,
+  width = 64,
+  height = 56,
+  pattern = "149",
+}
+
+tile{
+  layer = 1,
+  x = -56,
+  y = 8,
+  width = 64,
+  height = 56,
+  pattern = "149",
+}
+

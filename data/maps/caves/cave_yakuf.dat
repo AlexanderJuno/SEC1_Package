@@ -1,0 +1,1098 @@
+properties{
+  x = 0,
+  y = 0,
+  width = 320,
+  height = 480,
+  min_layer = 0,
+  max_layer = 2,
+  tileset = "oceanset_inside",
+}
+
+tile{
+  layer = 0,
+  x = 0,
+  y = 0,
+  width = 320,
+  height = 480,
+  pattern = "cave_ground",
+}
+
+tile{
+  layer = 0,
+  x = 32,
+  y = 240,
+  width = 16,
+  height = 16,
+  pattern = "cave_ground_4",
+}
+
+tile{
+  layer = 0,
+  x = 152,
+  y = 296,
+  width = 16,
+  height = 16,
+  pattern = "cave_ground_4",
+}
+
+tile{
+  layer = 0,
+  x = 232,
+  y = 304,
+  width = 16,
+  height = 16,
+  pattern = "cave_ground_4",
+}
+
+tile{
+  layer = 0,
+  x = 168,
+  y = 368,
+  width = 16,
+  height = 16,
+  pattern = "cave_ground_4",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 408,
+  width = 16,
+  height = 16,
+  pattern = "cave_ground_4",
+}
+
+tile{
+  layer = 0,
+  x = 120,
+  y = 176,
+  width = 16,
+  height = 16,
+  pattern = "cave_ground_4",
+}
+
+tile{
+  layer = 0,
+  x = 248,
+  y = 144,
+  width = 16,
+  height = 16,
+  pattern = "cave_ground_4",
+}
+
+tile{
+  layer = 0,
+  x = 184,
+  y = 96,
+  width = 16,
+  height = 16,
+  pattern = "cave_ground_4",
+}
+
+tile{
+  layer = 0,
+  x = 72,
+  y = 64,
+  width = 16,
+  height = 16,
+  pattern = "cave_ground_4",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 48,
+  width = 16,
+  height = 16,
+  pattern = "cave_ground_4",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 392,
+  width = 16,
+  height = 16,
+  pattern = "cave_ground_2",
+}
+
+tile{
+  layer = 0,
+  x = 168,
+  y = 384,
+  width = 16,
+  height = 16,
+  pattern = "cave_ground_2",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 392,
+  width = 16,
+  height = 16,
+  pattern = "cave_ground_2",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 304,
+  width = 16,
+  height = 16,
+  pattern = "cave_ground_2",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 168,
+  width = 16,
+  height = 16,
+  pattern = "cave_ground_2",
+}
+
+tile{
+  layer = 0,
+  x = 152,
+  y = 144,
+  width = 16,
+  height = 16,
+  pattern = "cave_ground_2",
+}
+
+tile{
+  layer = 0,
+  x = 72,
+  y = 120,
+  width = 16,
+  height = 16,
+  pattern = "cave_ground_2",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 136,
+  width = 32,
+  height = 32,
+  pattern = "cave_ground_large",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 296,
+  width = 16,
+  height = 16,
+  pattern = "cave_ground_3",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 416,
+  width = 16,
+  height = 16,
+  pattern = "cave_ground_3",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 368,
+  width = 16,
+  height = 16,
+  pattern = "cave_ground_3",
+}
+
+tile{
+  layer = 0,
+  x = 56,
+  y = 336,
+  width = 16,
+  height = 16,
+  pattern = "cave_ground_3",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 88,
+  width = 16,
+  height = 16,
+  pattern = "cave_ground_3",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 88,
+  width = 16,
+  height = 16,
+  pattern = "cave_ground_3",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 48,
+  width = 32,
+  height = 384,
+  pattern = "41_6",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 16,
+  width = 32,
+  height = 32,
+  pattern = "34_6",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 48,
+  width = 32,
+  height = 384,
+  pattern = "37_5",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 432,
+  width = 224,
+  height = 32,
+  pattern = "39_5",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 432,
+  width = 32,
+  height = 32,
+  pattern = "38_6",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 432,
+  width = 32,
+  height = 32,
+  pattern = "40_5",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 16,
+  width = 32,
+  height = 32,
+  pattern = "36_6",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 16,
+  width = 224,
+  height = 32,
+  pattern = "35_6",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 200,
+  width = 32,
+  height = 32,
+  pattern = "40_5",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 248,
+  width = 32,
+  height = 32,
+  pattern = "34_6",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 248,
+  width = 32,
+  height = 32,
+  pattern = "36_6",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 200,
+  width = 32,
+  height = 32,
+  pattern = "38_6",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 248,
+  width = 224,
+  height = 32,
+  pattern = "35_6",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 200,
+  width = 224,
+  height = 32,
+  pattern = "39_5",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 248,
+  width = 8,
+  height = 32,
+  pattern = "50_3",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 248,
+  width = 8,
+  height = 32,
+  pattern = "51_3",
+}
+
+tile{
+  layer = 0,
+  x = 72,
+  y = 200,
+  width = 8,
+  height = 32,
+  pattern = "50_4",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 200,
+  width = 8,
+  height = 32,
+  pattern = "51_4",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 432,
+  width = 8,
+  height = 32,
+  pattern = "50_4",
+}
+
+tile{
+  layer = 0,
+  x = 168,
+  y = 432,
+  width = 8,
+  height = 32,
+  pattern = "51_4",
+}
+
+tile{
+  layer = 0,
+  x = 152,
+  y = 424,
+  width = 16,
+  height = 16,
+  pattern = "cave_ground_4",
+}
+
+tile{
+  layer = 0,
+  x = 152,
+  y = 432,
+  width = 16,
+  height = 32,
+  pattern = "52_3",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 272,
+  width = 16,
+  height = 16,
+  pattern = "cave_ground_4",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 248,
+  width = 16,
+  height = 32,
+  pattern = "52_4",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 192,
+  width = 16,
+  height = 16,
+  pattern = "cave_ground_4",
+}
+
+tile{
+  layer = 0,
+  x = 80,
+  y = 200,
+  width = 16,
+  height = 32,
+  pattern = "52_3",
+}
+
+tile{
+  layer = 0,
+  x = 264,
+  y = 56,
+  width = 8,
+  height = 136,
+  pattern = "hole_edge_25",
+}
+
+tile{
+  layer = 0,
+  x = 56,
+  y = 48,
+  width = 208,
+  height = 8,
+  pattern = "hole_edge_24",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 56,
+  width = 8,
+  height = 136,
+  pattern = "hole_edge_26",
+}
+
+tile{
+  layer = 0,
+  x = 56,
+  y = 192,
+  width = 16,
+  height = 8,
+  pattern = "hole_edge_27",
+}
+
+tile{
+  layer = 0,
+  x = 104,
+  y = 192,
+  width = 160,
+  height = 8,
+  pattern = "hole_edge_27",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 192,
+  width = 8,
+  height = 8,
+  pattern = "hole_edge_30",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 48,
+  width = 8,
+  height = 8,
+  pattern = "hole_edge_28",
+}
+
+tile{
+  layer = 0,
+  x = 264,
+  y = 48,
+  width = 8,
+  height = 8,
+  pattern = "hole_edge_29",
+}
+
+tile{
+  layer = 0,
+  x = 264,
+  y = 192,
+  width = 8,
+  height = 8,
+  pattern = "hole_edge_31",
+}
+
+tile{
+  layer = 0,
+  x = 56,
+  y = 280,
+  width = 160,
+  height = 8,
+  pattern = "hole_edge_24",
+}
+
+tile{
+  layer = 0,
+  x = 248,
+  y = 280,
+  width = 16,
+  height = 8,
+  pattern = "hole_edge_24",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 280,
+  width = 8,
+  height = 8,
+  pattern = "hole_edge_33",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 280,
+  width = 8,
+  height = 8,
+  pattern = "hole_edge_32",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 288,
+  width = 8,
+  height = 136,
+  pattern = "hole_edge_26",
+}
+
+tile{
+  layer = 0,
+  x = 56,
+  y = 424,
+  width = 88,
+  height = 8,
+  pattern = "hole_edge_27",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 424,
+  width = 88,
+  height = 8,
+  pattern = "hole_edge_27",
+}
+
+tile{
+  layer = 0,
+  x = 264,
+  y = 288,
+  width = 8,
+  height = 136,
+  pattern = "hole_edge_25",
+}
+
+tile{
+  layer = 0,
+  x = 264,
+  y = 424,
+  width = 8,
+  height = 8,
+  pattern = "hole_edge_31",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 424,
+  width = 8,
+  height = 8,
+  pattern = "hole_edge_30",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 280,
+  width = 8,
+  height = 8,
+  pattern = "hole_edge_28",
+}
+
+tile{
+  layer = 0,
+  x = 264,
+  y = 280,
+  width = 8,
+  height = 8,
+  pattern = "hole_edge_29",
+}
+
+tile{
+  layer = 0,
+  x = 216,
+  y = 280,
+  width = 8,
+  height = 8,
+  pattern = "hole_edge_32",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 424,
+  width = 8,
+  height = 8,
+  pattern = "hole_edge_34",
+}
+
+tile{
+  layer = 0,
+  x = 168,
+  y = 424,
+  width = 8,
+  height = 8,
+  pattern = "hole_edge_35",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 192,
+  width = 8,
+  height = 8,
+  pattern = "hole_edge_35",
+}
+
+tile{
+  layer = 0,
+  x = 72,
+  y = 192,
+  width = 8,
+  height = 8,
+  pattern = "hole_edge_34",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 280,
+  width = 8,
+  height = 8,
+  pattern = "hole_edge_33",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 16,
+  width = 32,
+  height = 32,
+  pattern = "46",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 96,
+  width = 32,
+  height = 32,
+  pattern = "46_4",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 48,
+  width = 32,
+  height = 80,
+  pattern = "41_6",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 16,
+  width = 32,
+  height = 32,
+  pattern = "34_6",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 16,
+  width = 32,
+  height = 32,
+  pattern = "46_2",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 120,
+  width = 32,
+  height = 32,
+  pattern = "44_6",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 96,
+  width = 32,
+  height = 32,
+  pattern = "46_3",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 120,
+  width = 112,
+  height = 32,
+  pattern = "35_6",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 120,
+  width = 32,
+  height = 32,
+  pattern = "34_6",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 360,
+  width = 16,
+  height = 16,
+  pattern = "cave_ground_4",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 360,
+  width = 16,
+  height = 16,
+  pattern = "cave_ground_4",
+}
+
+tile{
+  layer = 0,
+  x = 184,
+  y = 336,
+  width = 32,
+  height = 32,
+  pattern = "cave_ground_4",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 304,
+  width = 32,
+  height = 32,
+  pattern = "cave_ground_4",
+}
+
+tile{
+  layer = 0,
+  x = 184,
+  y = 328,
+  width = 16,
+  height = 16,
+  pattern = "cave_ground_2",
+}
+
+tile{
+  layer = 0,
+  x = 120,
+  y = 296,
+  width = 16,
+  height = 16,
+  pattern = "cave_ground_2",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 352,
+  width = 16,
+  height = 16,
+  pattern = "cave_ground_1",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 328,
+  width = 16,
+  height = 16,
+  pattern = "cave_ground_3",
+}
+
+wall{
+  layer = 0,
+  x = 72,
+  y = 232,
+  width = 8,
+  height = 16,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+wall{
+  layer = 0,
+  x = 240,
+  y = 232,
+  width = 8,
+  height = 16,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+destination{
+  name = "from_outside",
+  layer = 0,
+  x = 160,
+  y = 445,
+  direction = 1,
+}
+
+teletransporter{
+  layer = 0,
+  x = 152,
+  y = 464,
+  width = 16,
+  height = 16,
+  destination_map = "Yakuf Plains/yakuf_plains",
+  destination = "from_cave",
+}
+
+wall{
+  layer = 0,
+  x = 144,
+  y = 464,
+  width = 8,
+  height = 16,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+wall{
+  layer = 0,
+  x = 168,
+  y = 464,
+  width = 8,
+  height = 16,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+tile{
+  layer = 1,
+  x = 216,
+  y = 248,
+  width = 32,
+  height = 16,
+  pattern = "53_3",
+}
+
+tile{
+  layer = 1,
+  x = 72,
+  y = 216,
+  width = 32,
+  height = 16,
+  pattern = "53_4",
+}
+
+tile{
+  layer = 1,
+  x = 176,
+  y = 32,
+  width = 112,
+  height = 80,
+  pattern = "grate_1",
+}
+
+tile{
+  layer = 1,
+  x = 176,
+  y = 24,
+  width = 112,
+  height = 8,
+  pattern = "86_3",
+}
+
+tile{
+  layer = 1,
+  x = 176,
+  y = 112,
+  width = 112,
+  height = 8,
+  pattern = "86_3",
+}
+
+tile{
+  layer = 1,
+  x = 288,
+  y = 32,
+  width = 8,
+  height = 80,
+  pattern = "98_3",
+}
+
+tile{
+  layer = 1,
+  x = 168,
+  y = 32,
+  width = 8,
+  height = 80,
+  pattern = "98_3",
+}
+
+tile{
+  layer = 1,
+  x = 144,
+  y = 448,
+  width = 32,
+  height = 16,
+  pattern = "53_4",
+}
+
+tile{
+  layer = 1,
+  x = 104,
+  y = 200,
+  width = 144,
+  height = 32,
+  pattern = "39_5",
+}
+
+jumper{
+  layer = 1,
+  x = 192,
+  y = 104,
+  width = 80,
+  height = 8,
+  direction = 6,
+  jump_length = 40,
+}
+
+chest{
+  layer = 1,
+  x = 264,
+  y = 61,
+  treasure_name = "gem",
+  treasure_variant = 4,
+  treasure_savegame_variable = "chest006_opened",
+  sprite = "chests/chest_green",
+}
+
+destination{
+  name = "from_hole",
+  layer = 1,
+  x = 232,
+  y = 77,
+  direction = -1,
+}
+
+tile{
+  layer = 2,
+  x = 16,
+  y = 232,
+  width = 288,
+  height = 16,
+  pattern = "36_15",
+}
+
+tile{
+  layer = 2,
+  x = 0,
+  y = 0,
+  width = 320,
+  height = 16,
+  pattern = "36_15",
+}
+
+tile{
+  layer = 2,
+  x = 0,
+  y = 464,
+  width = 320,
+  height = 16,
+  pattern = "36_15",
+}
+
+tile{
+  layer = 2,
+  x = 0,
+  y = 16,
+  width = 16,
+  height = 448,
+  pattern = "36_15",
+}
+
+tile{
+  layer = 2,
+  x = 304,
+  y = 16,
+  width = 16,
+  height = 448,
+  pattern = "36_15",
+}
+
+tile{
+  layer = 2,
+  x = 16,
+  y = 16,
+  width = 144,
+  height = 104,
+  pattern = "36_15",
+}
+

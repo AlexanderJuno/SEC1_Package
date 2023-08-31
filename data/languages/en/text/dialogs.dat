@@ -1,0 +1,326 @@
+dialog{
+  id = "_crystal",
+  text = [[
+This crystal seems to activate 
+something if it is hit.
+]],
+}
+
+dialog{
+  id = "_shop.amount_full",
+  text = [[
+You can't buy more, your inventory is full.
+]],
+}
+
+dialog{
+  id = "_shop.not_enough_money",
+  text = [[
+Huh! You don't have enough coins.
+]],
+}
+
+dialog{
+  id = "_shop.question",
+  text = [[
+Price : $v coins.
+ $? Buy.
+ $? Don't Buy.
+]],
+}
+
+dialog{
+  id = "_treasure.bomb.1",
+  text = [[
+You found bombs! Now you can 
+explode weak walls and enemies.
+Don't blow yourself though!
+]],
+}
+
+dialog{
+  id = "_treasure.life_potion.1",
+  text = [[
+You found a Life Potion! It's very 
+useful, it restores 8 hearts! 
+You can keep it for later.
+]],
+}
+
+dialog{
+  id = "_treasure.money_bag.1",
+  text = [[
+Here's a good condition 
+leather bag that can hold
+about 200 coins.
+]],
+}
+
+dialog{
+  id = "confirmation",
+  text = [[
+Are you sure?
+$? YES
+$? NO
+]],
+}
+
+dialog{
+  id = "delete_save",
+  text = [[
+Do you want to delete your game?
+$? YES.
+$? NO.
+]],
+}
+
+dialog{
+  id = "game.bomb_no_more",
+  text = [[
+Huh! You don't have bombs
+any more, you exploded too
+much things.
+]],
+}
+
+dialog{
+  id = "game.caution_explosives",
+  text = [[
+BEWARE! EXPLOSIVES!
+Don't break the vases.
+]],
+}
+
+dialog{
+  id = "game.cooking",
+  text = [[
+It's a book of mushroom cooking.
+]],
+}
+
+dialog{
+  id = "game.fire",
+  text = [[
+A conforting warm come from 
+this little fire.
+]],
+}
+
+dialog{
+  id = "game.intro",
+  text = [[
+This is the start of a journey, 
+where you will learn how to use
+the Solarus Game Engine.
+]],
+}
+
+dialog{
+  id = "game.library",
+  text = [[
+The library is full of books of 
+a lot of subjets.
+]],
+}
+
+dialog{
+  id = "game.life_potion_no_more",
+  text = [[
+Huh! You don't have any left, the
+bottle is empty!
+]],
+}
+
+dialog{
+  id = "game.life_potion_not_needed",
+  text = [[
+You already have all your hearts,
+you keep it for later instead.
+]],
+}
+
+dialog{
+  id = "game.soup",
+  text = [[
+Someone is cooking a soup.
+It smells good!
+]],
+}
+
+dialog{
+  id = "game.weak_wall",
+  text = [[
+Hmm... It seems to be easy to
+break, but you'il need bombs.
+]],
+}
+
+dialog{
+  id = "npc.bartender",
+  text = [[
+Do you want a beer?
+$? Yes, please.
+$? No thanks.
+]],
+}
+
+dialog{
+  id = "npc.bartender_you're_drunk",
+  text = [[
+You feel really dizzy. You drank
+enough.
+]],
+}
+
+dialog{
+  id = "npc.blacksmith",
+  text = [[
+Wanna upgrade you sword?
+$? Upgrade it.
+$? No thanks, I'm poor.
+]],
+}
+
+dialog{
+  id = "npc.blacksmith_cannot_upgrade",
+  text = [[
+Sorry, but you sword can not be
+upgraded anymore.
+]],
+}
+
+dialog{
+  id = "npc.inn",
+  text = [[
+Welcome there, do you want to save?
+$? YES.
+$? NO.
+]],
+}
+
+dialog{
+  id = "npc.shop_welcome",
+  text = [[
+Hi there! Welcome to my shop.
+If you want to buy something, 
+just check it.
+]],
+}
+
+dialog{
+  id = "npc.witch",
+  text = [[
+Do you want to be really powerful?
+$? Yes, of course!
+$? No, I'm good for now.
+]],
+}
+
+dialog{
+  id = "npc.witch_confirmation",
+  text = [[
+Are you sure, there's no come back?
+$? YES, I do.
+$? Huh... No.
+]],
+}
+
+dialog{
+  id = "shop.apple",
+  text = [[
+A crunchy apple, with good
+crisp. It can heal you a bit.
+]],
+}
+
+dialog{
+  id = "shop.beer",
+  text = [[
+You can drink it, but nothing
+good will happen.
+]],
+}
+
+dialog{
+  id = "shop.can't_buy",
+  text = [[
+Huh, You already have this
+equiped.
+]],
+}
+
+dialog{
+  id = "shop.chicken_wing",
+  text = [[
+A big chicken wing. It can heal
+you a bit.
+]],
+}
+
+dialog{
+  id = "shop.coins_bag_LvL2",
+  text = [[
+Here's a good condition 
+leather bag that can hold
+about 500 coins.
+]],
+}
+
+dialog{
+  id = "shop.swordLvL2",
+  text = [[
+A better sword, sharper 
+and stronger.
+]],
+}
+
+dialog{
+  id = "shop.tunic2",
+  text = [[
+A good tunic, it reduce a little
+bit the damage you receive.
+]],
+}
+
+dialog{
+  id = "sign.ale",
+  text = [[
+Welcome to Swivel's Ale
+Price for a beer: 15 coins.
+]],
+}
+
+dialog{
+  id = "sign.forest",
+  text = [[
+Farter east - Kombi Forest
+]],
+}
+
+dialog{
+  id = "sign.house_directions",
+  text = [[
+WEST - Swivels Town
+EAST - Plains of Yakuf
+]],
+}
+
+dialog{
+  id = "sign.inn",
+  text = [[
+Welcome to Swivel's Inn
+If you want to save,
+it's free.
+]],
+}
+
+dialog{
+  id = "sign.smith",
+  text = [[
+Welcome to Swivel's Blacksmith
+Price for sword work:
+LVL2 : 275 coins
+LVL3 : 375 coins
+LVL4 : 775 coins
+]],
+}

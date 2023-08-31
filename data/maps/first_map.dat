@@ -1,0 +1,920 @@
+properties{
+  x = 0,
+  y = 0,
+  width = 320,
+  height = 240,
+  min_layer = 0,
+  max_layer = 2,
+  tileset = "oceanset_inside",
+}
+
+tile{
+  layer = 0,
+  x = 8,
+  y = 8,
+  width = 304,
+  height = 224,
+  pattern = "1",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 16,
+  width = 32,
+  height = 32,
+  pattern = "34_2",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 16,
+  width = 32,
+  height = 32,
+  pattern = "36_2",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 192,
+  width = 32,
+  height = 32,
+  pattern = "40_2",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 192,
+  width = 32,
+  height = 32,
+  pattern = "38_2",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 16,
+  width = 224,
+  height = 32,
+  pattern = "35_2",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 48,
+  width = 32,
+  height = 144,
+  pattern = "41_2",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 48,
+  width = 32,
+  height = 144,
+  pattern = "37_2",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 192,
+  width = 224,
+  height = 32,
+  pattern = "39_2",
+}
+
+tile{
+  layer = 0,
+  x = 168,
+  y = 64,
+  width = 8,
+  height = 72,
+  pattern = "33_4",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 64,
+  width = 8,
+  height = 72,
+  pattern = "29_4",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 136,
+  width = 8,
+  height = 8,
+  pattern = "30_4",
+}
+
+tile{
+  layer = 0,
+  x = 168,
+  y = 56,
+  width = 8,
+  height = 8,
+  pattern = "27_8",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 56,
+  width = 80,
+  height = 8,
+  pattern = "27_7",
+}
+
+tile{
+  layer = 0,
+  x = 168,
+  y = 136,
+  width = 8,
+  height = 8,
+  pattern = "32_4",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 56,
+  width = 8,
+  height = 8,
+  pattern = "28_4",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 136,
+  width = 80,
+  height = 8,
+  pattern = "31_4",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 64,
+  width = 80,
+  height = 72,
+  pattern = "26_4",
+}
+
+tile{
+  layer = 0,
+  x = 200,
+  y = 80,
+  width = 32,
+  height = 48,
+  pattern = "112",
+  tileset = "oceanset_inside",
+}
+
+tile{
+  layer = 0,
+  x = 120,
+  y = 96,
+  width = 8,
+  height = 24,
+  pattern = "78",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 96,
+  width = 8,
+  height = 24,
+  pattern = "76",
+}
+
+tile{
+  layer = 0,
+  x = 88,
+  y = 200,
+  width = 16,
+  height = 16,
+  pattern = "85",
+}
+
+tile{
+  layer = 0,
+  x = 240,
+  y = 40,
+  width = 24,
+  height = 24,
+  pattern = "64_2",
+}
+
+tile{
+  layer = 0,
+  x = 168,
+  y = 40,
+  width = 24,
+  height = 24,
+  pattern = "64",
+}
+
+tile{
+  layer = 0,
+  x = 192,
+  y = 48,
+  width = 48,
+  height = 16,
+  pattern = "68",
+  tileset = "oceanset_inside",
+}
+
+tile{
+  layer = 0,
+  x = 208,
+  y = 16,
+  width = 16,
+  height = 24,
+  pattern = "100",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 40,
+  width = 32,
+  height = 24,
+  pattern = "106",
+}
+
+tile{
+  layer = 0,
+  x = 120,
+  y = 40,
+  width = 16,
+  height = 16,
+  pattern = "110",
+}
+
+tile{
+  layer = 0,
+  x = 144,
+  y = 40,
+  width = 16,
+  height = 16,
+  pattern = "108",
+}
+
+tile{
+  layer = 0,
+  x = 88,
+  y = 40,
+  width = 16,
+  height = 24,
+  pattern = "73_3",
+}
+
+tile{
+  layer = 0,
+  x = 72,
+  y = 40,
+  width = 16,
+  height = 24,
+  pattern = "73_2",
+}
+
+tile{
+  layer = 0,
+  x = 56,
+  y = 40,
+  width = 16,
+  height = 24,
+  pattern = "73",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 16,
+  width = 32,
+  height = 32,
+  pattern = "46_2",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 192,
+  width = 32,
+  height = 32,
+  pattern = "46_3",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 192,
+  width = 32,
+  height = 32,
+  pattern = "46_4",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 16,
+  width = 32,
+  height = 32,
+  pattern = "46",
+}
+
+tile{
+  layer = 0,
+  x = 272,
+  y = 112,
+  width = 32,
+  height = 16,
+  pattern = "72",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 112,
+  width = 32,
+  height = 16,
+  pattern = "72_2",
+}
+
+tile{
+  layer = 0,
+  x = 104,
+  y = 88,
+  width = 16,
+  height = 16,
+  pattern = "75",
+}
+
+tile{
+  layer = 0,
+  x = 104,
+  y = 96,
+  width = 16,
+  height = 24,
+  pattern = "77",
+}
+
+tile{
+  layer = 0,
+  x = 96,
+  y = 96,
+  width = 16,
+  height = 16,
+  pattern = "94",
+}
+
+tile{
+  layer = 0,
+  x = 104,
+  y = 112,
+  width = 16,
+  height = 16,
+  pattern = "75",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 200,
+  width = 16,
+  height = 16,
+  pattern = "85",
+}
+
+tile{
+  layer = 0,
+  x = 280,
+  y = 152,
+  width = 16,
+  height = 16,
+  pattern = "84",
+}
+
+tile{
+  layer = 0,
+  x = 280,
+  y = 72,
+  width = 16,
+  height = 16,
+  pattern = "84",
+}
+
+tile{
+  layer = 0,
+  x = 24,
+  y = 152,
+  width = 16,
+  height = 16,
+  pattern = "82",
+}
+
+tile{
+  layer = 0,
+  x = 24,
+  y = 72,
+  width = 16,
+  height = 16,
+  pattern = "82",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 152,
+  width = 16,
+  height = 16,
+  pattern = "window_cast_light",
+}
+
+tile{
+  layer = 0,
+  x = 256,
+  y = 72,
+  width = 16,
+  height = 16,
+  pattern = "window_cast_light",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 176,
+  width = 16,
+  height = 16,
+  pattern = "window_cast_light",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 152,
+  width = 16,
+  height = 16,
+  pattern = "window_cast_light",
+}
+
+tile{
+  layer = 0,
+  x = 48,
+  y = 72,
+  width = 16,
+  height = 16,
+  pattern = "window_cast_light",
+}
+
+tile{
+  layer = 0,
+  x = 88,
+  y = 176,
+  width = 16,
+  height = 16,
+  pattern = "window_cast_light",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 192,
+  width = 16,
+  height = 32,
+  pattern = "1",
+}
+
+tile{
+  layer = 0,
+  x = 152,
+  y = 192,
+  width = 8,
+  height = 32,
+  pattern = "50_4",
+}
+
+tile{
+  layer = 0,
+  x = 176,
+  y = 192,
+  width = 8,
+  height = 32,
+  pattern = "51_4",
+}
+
+tile{
+  layer = 0,
+  x = 112,
+  y = 96,
+  width = 16,
+  height = 16,
+  pattern = "90",
+}
+
+tile{
+  layer = 0,
+  x = 160,
+  y = 200,
+  width = 16,
+  height = 24,
+  pattern = "6_2",
+}
+
+tile{
+  layer = 0,
+  x = 72,
+  y = 64,
+  width = 32,
+  height = 16,
+  pattern = "3",
+}
+
+tile{
+  layer = 0,
+  x = 136,
+  y = 128,
+  width = 32,
+  height = 16,
+  pattern = "3",
+}
+
+tile{
+  layer = 0,
+  x = 224,
+  y = 152,
+  width = 32,
+  height = 16,
+  pattern = "3",
+}
+
+tile{
+  layer = 0,
+  x = 104,
+  y = 176,
+  width = 32,
+  height = 16,
+  pattern = "2",
+}
+
+tile{
+  layer = 0,
+  x = 64,
+  y = 136,
+  width = 32,
+  height = 16,
+  pattern = "2",
+}
+
+tile{
+  layer = 0,
+  x = 128,
+  y = 72,
+  width = 32,
+  height = 16,
+  pattern = "2",
+}
+
+destination{
+  name = "destination",
+  layer = 0,
+  x = 160,
+  y = 117,
+  direction = 3,
+}
+
+destructible{
+  layer = 0,
+  x = 56,
+  y = 189,
+  treasure_name = "random",
+  sprite = "destructibles/vase",
+  destruction_sound = "stone",
+}
+
+wall{
+  layer = 0,
+  x = 152,
+  y = 224,
+  width = 8,
+  height = 16,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+wall{
+  layer = 0,
+  x = 176,
+  y = 224,
+  width = 8,
+  height = 16,
+  stops_hero = true,
+  stops_npcs = true,
+  stops_enemies = true,
+  stops_blocks = true,
+  stops_projectiles = true,
+}
+
+teletransporter{
+  layer = 0,
+  x = 160,
+  y = 224,
+  width = 16,
+  height = 16,
+  destination_map = "backyard",
+}
+
+destructible{
+  layer = 0,
+  x = 72,
+  y = 189,
+  treasure_name = "random",
+  sprite = "destructibles/vase",
+  destruction_sound = "stone",
+}
+
+destructible{
+  layer = 0,
+  x = 248,
+  y = 189,
+  treasure_name = "random",
+  sprite = "destructibles/vase",
+  destruction_sound = "stone",
+}
+
+destructible{
+  layer = 0,
+  x = 264,
+  y = 189,
+  treasure_name = "random",
+  sprite = "destructibles/vase",
+  destruction_sound = "stone",
+}
+
+npc{
+  name = "book",
+  layer = 0,
+  x = 104,
+  y = 109,
+  direction = -1,
+  subtype = 0,
+  behavior = "dialog#game.intro",
+}
+
+destination{
+  name = "from_outside",
+  layer = 0,
+  x = 168,
+  y = 197,
+  direction = 1,
+}
+
+npc{
+  layer = 0,
+  x = 128,
+  y = 61,
+  direction = 3,
+  subtype = 0,
+  behavior = "dialog#game.fire",
+}
+
+npc{
+  layer = 0,
+  x = 69,
+  y = 61,
+  direction = 3,
+  subtype = 0,
+  behavior = "dialog#game.library",
+}
+
+npc{
+  layer = 0,
+  x = 90,
+  y = 61,
+  direction = 3,
+  subtype = 0,
+  behavior = "dialog#game.library",
+}
+
+chest{
+  name = "tunic1_chest",
+  layer = 0,
+  x = 216,
+  y = 141,
+  treasure_name = "tunic",
+  sprite = "chests/chest_red",
+}
+
+tile{
+  layer = 1,
+  x = 240,
+  y = 24,
+  width = 24,
+  height = 16,
+  pattern = "65_2",
+}
+
+tile{
+  layer = 1,
+  x = 168,
+  y = 24,
+  width = 24,
+  height = 16,
+  pattern = "65",
+}
+
+tile{
+  layer = 1,
+  x = 192,
+  y = 40,
+  width = 48,
+  height = 8,
+  pattern = "69",
+  tileset = "oceanset_inside",
+}
+
+tile{
+  layer = 1,
+  x = 224,
+  y = 32,
+  width = 8,
+  height = 16,
+  pattern = "87",
+}
+
+tile{
+  layer = 1,
+  x = 112,
+  y = 24,
+  width = 32,
+  height = 16,
+  pattern = "107",
+}
+
+tile{
+  layer = 1,
+  x = 88,
+  y = 24,
+  width = 16,
+  height = 16,
+  pattern = "74_3",
+}
+
+tile{
+  layer = 1,
+  x = 72,
+  y = 24,
+  width = 16,
+  height = 16,
+  pattern = "74_2",
+}
+
+tile{
+  layer = 1,
+  x = 56,
+  y = 24,
+  width = 16,
+  height = 16,
+  pattern = "74",
+}
+
+tile{
+  layer = 1,
+  x = 152,
+  y = 208,
+  width = 32,
+  height = 16,
+  pattern = "53_4",
+}
+
+tile{
+  layer = 1,
+  x = 192,
+  y = 32,
+  width = 16,
+  height = 16,
+  pattern = "139",
+}
+
+tile{
+  layer = 1,
+  x = 16,
+  y = 224,
+  width = 288,
+  height = 8,
+  pattern = "plaster_wall_trim_2",
+}
+
+tile{
+  layer = 1,
+  x = 8,
+  y = 16,
+  width = 8,
+  height = 208,
+  pattern = "plaster_wall_trim_4",
+}
+
+tile{
+  layer = 1,
+  x = 16,
+  y = 8,
+  width = 288,
+  height = 8,
+  pattern = "plaster_wall_trim_6",
+}
+
+tile{
+  layer = 1,
+  x = 304,
+  y = 16,
+  width = 8,
+  height = 208,
+  pattern = "plaster_wall_trim_8",
+}
+
+tile{
+  layer = 1,
+  x = 8,
+  y = 224,
+  width = 8,
+  height = 8,
+  pattern = "plaster_wall_trim_12",
+}
+
+tile{
+  layer = 1,
+  x = 8,
+  y = 8,
+  width = 8,
+  height = 8,
+  pattern = "plaster_wall_trim_9",
+}
+
+tile{
+  layer = 1,
+  x = 304,
+  y = 8,
+  width = 8,
+  height = 8,
+  pattern = "plaster_wall_trim_10",
+}
+
+tile{
+  layer = 1,
+  x = 304,
+  y = 224,
+  width = 8,
+  height = 8,
+  pattern = "plaster_wall_trim_11",
+}
+
+tile{
+  layer = 2,
+  x = 0,
+  y = 232,
+  width = 320,
+  height = 8,
+  pattern = "36",
+}
+
+tile{
+  layer = 2,
+  x = 0,
+  y = 0,
+  width = 320,
+  height = 8,
+  pattern = "36",
+}
+
+tile{
+  layer = 2,
+  x = 0,
+  y = 8,
+  width = 8,
+  height = 224,
+  pattern = "36",
+}
+
+tile{
+  layer = 2,
+  x = 312,
+  y = 8,
+  width = 8,
+  height = 224,
+  pattern = "36",
+}
+

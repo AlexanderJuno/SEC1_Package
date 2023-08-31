@@ -1,0 +1,9 @@
+animation{
+  name = "rupee_icon",
+  src_image = "entities/rupee_icon.png",
+  directions = {
+    { x = 0, y = 0, frame_width = 12, frame_height = 12, origin_x = 0, origin_y = 0 },
+    { x = 12, y = 0, frame_width = 12, frame_height = 12, origin_x = 0, origin_y = 0 },
+    { x = 24, y = 0, frame_width = 12, frame_height = 12, origin_x = 0, origin_y = 0 },
+  },
+}
